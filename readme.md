@@ -51,4 +51,12 @@ password: dev
 
 If everything goes well, you can see "logged" in the browser console.
 
+**5) Clean your dev environment**
+
+You can stop all containers by executing:
+```
+npm run clean.dev.environment
+```
+
+
 **HAPPY CODING!**
